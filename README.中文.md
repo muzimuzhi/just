@@ -1,4 +1,4 @@
-↖️ 目录
+<div align=right>↖️ 目录</div>
 
 <h1 align="center"><code>just</code></h1>
 
